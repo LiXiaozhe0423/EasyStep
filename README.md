@@ -1,6 +1,6 @@
 # EasyStep打工換宿平臺
 
-##專案架構
+## 專案架構
 
 後端採用SpringBoot框架做開發，透過Hibernate與資料庫溝通存取資料，採用AXIOS與前端界面交換資料。
 <br/>
@@ -11,7 +11,7 @@ Cloudinary API
 GOOGLE API
 BootStarp API
 <br/>
-##專案使用步驟
+## 專案使用步驟
 Vue-easy為Vue專案，請先開啟PowerShell界面先行安裝依賴
 <br/>
 如使用node.js 請輸入 npm install
@@ -27,4 +27,4 @@ easystep2須設定用戶使用資料
 開啟easystep2\src\main\java\com\work\easystep2\handler CloudinaryConfig.java
 第13、14、15行請使用您的使用者金鑰資訊
 <br/>
-###資策會 EEIT71_JAVA跨域專班第三組 制
+### 資策會 EEIT71_JAVA跨域專班第三組 制
